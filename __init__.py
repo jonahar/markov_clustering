@@ -1,9 +1,4 @@
-from .mcl import *
-
-try:
-    from .drawing import *
-except ImportError:
-    print("Visualization not supported to missing libraries.")
+"""original developer information"""
 
 __version_info__ = ("0", "0", "2", "dev")
 __date__ = "28 Sep 2017"

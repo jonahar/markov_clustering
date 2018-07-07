@@ -1,6 +1,0 @@
-pytest
-numpy
-scipy
-scikit-learn
-matplotlib
-networkx
